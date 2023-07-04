@@ -6,9 +6,9 @@ study plan and report of rust and OS
 ------------------------------
 本周计划:
 
-rustlings训练
+rustlings训练(全部)
 
-《深入理解计算机系统》学习(CSAPP)
+《深入理解计算机系统》(CSAPP)前八章
 
 ## Content
 
