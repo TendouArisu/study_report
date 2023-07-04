@@ -11,21 +11,17 @@ rustlings训练(全部)
 ------------------------------
 
 ## Content
-<!-- vscode-markdown-toc -->
+
 - [Day1(2023.7.3)](#Day12023.7.3)
 - [Day2(2023.7.4)](#Day22023.7.4)
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+
 ------------------------------
-##  1. <a name='Day12023.7.3'></a>Day1（2023.7.3）
+##  Day1（2023.7.3）
 
 rustlings训练完成1~45题，做题的同时复习rust语法和用法，发现许多地方遗忘较多，需要进一步复习。
 
 
-##  2. <a name='Day22023.7.4'></a>Day2（2023.7.4）
+##  Day2（2023.7.4）
 
 rustlings训练完成46~60题。
 
