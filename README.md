@@ -2,26 +2,12 @@
 study plan and report of rust and OS
 ## 内容列表
 
-- [背景](#背景)
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-dddddddddddd
-## 背景
+- [Day1](#Day1)
+- [Day2](#Day2)
+
+## Day 1
+
+
+
+
+## Day 2
