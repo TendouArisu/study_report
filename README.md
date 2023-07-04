@@ -1,10 +1,8 @@
 # study_report
 study plan and report of rust and OS
 
-暑期训练&实习
-
 ------------------------------
-本周计划:
+week plan:
 
 rustlings训练(全部)
 
