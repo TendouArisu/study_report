@@ -38,6 +38,8 @@ rustlings训练完成46~60题。
 
 rustlings训练完成61~95题(全部完成），今日主要做题，发现许多概念先前未学习以及遗忘，需要更多时间复习rust语法。
 
+![Alt Text](images/rustlings_complete.png)
+
 rust用法仍不熟练，许多题目借助编译器以及提示才较好完成，代码量不够。
 
 打算根据rustlings习题分类顺序复习。
